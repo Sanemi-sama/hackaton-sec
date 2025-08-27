@@ -1,0 +1,8 @@
+[
+  {"id":1, "owner_id":1, "title":"Courses", "content":"Acheter du lait", "is_private":false},
+  {"id":2, "owner_id":1, "title":"Projet", "content":"Rapport confidentiel", "is_private":true},
+  {"id":3, "owner_id":2, "title":"Recette", "content":"Pizza maison", "is_private":false},
+  {"id":4, "owner_id":2, "title":"Secret", "content":"Code coffre = 4321", "is_private":true},
+  {"id":5, "owner_id":1, "title":"Liste films", "content":"Matrix, Inception", "is_private":false},
+  {"id":6, "owner_id":2, "title":"Tâches", "content":"Réviser sécurité web", "is_private":false}
+]
